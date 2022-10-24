@@ -4,7 +4,6 @@
     "description" : "系统架构设计师考试",
     "language" : "zh-hans",
     "plugins": [
-    	"expandable-chapters",
         "splitter",
 		"code",
 		"hide-element",
